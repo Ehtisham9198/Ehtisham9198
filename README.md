@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello World👋, I'm Md. Ehtisham</h1>
-<h3 align="center">A passionateDeveloper from India</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<h3 align="center">A passionate Developer from India</h3>
+<p align="center">My enduring passion for software engineering propels me to constantly explore new tech stacks. I thrive on leveraging these technologies creatively to develop exciting projects, reflecting my commitment to staying at the forefront of innovation in the field.🛠️</p>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Ehtisham9198&label=Profile%20views&color=0e75b6&style=flat" alt="Ehtisham" /> 
