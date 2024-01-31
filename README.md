@@ -96,26 +96,11 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Trophy:</h3>
-
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
-  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ehtisham9198&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ehtisham9198&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
- <br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Ehtisham9198's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ehtisham9198\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![Ehtisham9198's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ehtisham9198&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ehtisham9198&theme=midnight-purple)](https://git.io/streak-stats)
 
@@ -132,9 +117,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Achievements:</h3>
 
-[![An image of @supuna97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/supuna97)](https://holopin.io/@supuna97)
 <br><br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -142,4 +125,3 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Supun Nanayakkara</a></p>
