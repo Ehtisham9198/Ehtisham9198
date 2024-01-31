@@ -29,7 +29,7 @@
 
 - 🔭 I’m currently working on **Web Dev**
 
-- 💬 Ask me about **Java, Python, NodeJS**
+- 💬 Ask me about **JavaScript, Python, NodeJS**
 
 - 📫 How to reach me **mohdehtisham2019@gmail.com**
 
