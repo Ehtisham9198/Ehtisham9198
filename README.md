@@ -7,34 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=Ehtisham9198&label=Profile%20views&color=0e75b6&style=flat" alt="Ehtisham" /> 
 </p>
 
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-</div>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
-
-- 🔭 I’m currently working on **Web Dev**
-
-- 💬 Ask me about **JavaScript, Python, NodeJS**
-
-- 📫 How to reach me **mohdehtisham2019@gmail.com**
-
-- ⚡ Fun fact **Write my own code**
-
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
