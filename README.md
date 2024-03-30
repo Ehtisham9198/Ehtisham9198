@@ -7,7 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=Ehtisham9198&label=Profile%20views&color=0e75b6&style=flat" alt="Ehtisham" /> 
 </p>
 
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ehtishaam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
