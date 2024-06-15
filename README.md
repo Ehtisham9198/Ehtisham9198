@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello World👋, I'm Md. Ehtisham</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A Developer from India</h3>
 <p align="center">My enduring passion for software engineering propels me to constantly explore new tech stacks. I thrive on leveraging these technologies creatively to develop exciting projects.🛠️</p>
 
 <p align="center"> 
