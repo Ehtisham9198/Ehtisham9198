@@ -1,8 +1,6 @@
 
 <h1 align="center">Hello World👋, I'm Md. Ehtisham</h1>
 <h3 align="center">A Developer from India</h3>
-<p align="center">My enduring passion for software engineering propels me to constantly explore new tech stacks. I thrive on leveraging these technologies creatively to develop exciting projects.🛠️</p>
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Ehtisham9198&label=Profile%20views&color=0e75b6&style=flat" alt="Ehtisham" /> 
 </p>
